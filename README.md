@@ -1,6 +1,1 @@
-# Prueba Github WorkStation Home
-### Otra Prueba
-#### 3ra Prueba
-#### 4to  Cambio
-#### 5to cambio
-#### 6ta Preuba
+# Prueba Github WorkStation Home Linux 26-06-2022
